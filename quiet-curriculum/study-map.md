@@ -25,8 +25,8 @@ This map outlines the major areas of focus in my self-guided curriculum.
 
 ## 🔍 Self-Guided Curriculum Builders
 - [ ] 🆓Making sense of mental health problems
-- [ ] 🆓📃[The Science of Neglect: The Persistent Absence of Responsive Care Disrupts the Developing Brain](https://developingchild.harvard.edu/resources/working-paper/the-science-of-neglect-the-persistent-absence-of-responsive-care-disrupts-the-developing-brain/)
-- [ ] 🆓📺[Toxic Stress Derails Healthy Development ](https://developingchild.harvard.edu/resources/videos/toxic-stress-derails-healthy-development/)
+- [x] 🆓📃[The Science of Neglect: The Persistent Absence of Responsive Care Disrupts the Developing Brain](https://developingchild.harvard.edu/resources/working-paper/the-science-of-neglect-the-persistent-absence-of-responsive-care-disrupts-the-developing-brain/)
+- [x] 🆓📺[Toxic Stress Derails Healthy Development ](https://developingchild.harvard.edu/resources/videos/toxic-stress-derails-healthy-development/)
 
 ## 📝 Capstones
 
